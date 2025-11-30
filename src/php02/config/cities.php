@@ -1,0 +1,28 @@
+<?php
+$cities=[
+  [
+    'name'=>'シドニー',
+    'time_zone'=>'Australia/Sydney',
+    'img'=>'australia.jpg'
+  ],
+  [
+    'name'=>'東京',
+    'time_zone'=>'Asia/Tokyo',
+    'img'=>'Japan.jpg'
+  ],
+  [
+    'name'=>'上海',
+    'time_zone'=>'Asia/Shanghai',
+    'img'=>'China.jpg'
+  ],
+  [
+    'name'=>'モスクワ',
+    'time_zone'=>'Europe/Moscow',
+    'img'=>'russia.jpg'
+  ],
+  [
+    'name'=>'ニューヨーク',
+    'time_zone'=>'America/New_York',
+    'img'=>'america.jpg'
+  ]
+  ];
